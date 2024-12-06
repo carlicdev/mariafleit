@@ -1,5 +1,5 @@
 import ReelsSection from '../components/ReelsSection'
-import SubscribeAlt from '../components/SubscribeAlt'
+import Subscribe from '../components/Subscribe'
 
 const About = () => {
   return (
@@ -12,7 +12,7 @@ const About = () => {
           </div>
       </div>
       <ReelsSection />
-      <SubscribeAlt />
+      <Subscribe />
     </main>
   )
 }
