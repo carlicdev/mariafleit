@@ -38,7 +38,7 @@ const Subscribe = () => {
                       </div>
                   </div>
                   <div className='z-10 max-w-[300px] border border-gray-200 shadow bg-white rounded p-2 pb-10 text-center absolute top-10 right-10 -rotate-3'>
-                      <img src='/maria-fondo.jpg' alt='uno' className='w-full h-[300px]' />
+                      <img src='/maria-fondo.png' alt='family' className='w-full h-[300px]' />
                   </div>
               </div>
           </div>
