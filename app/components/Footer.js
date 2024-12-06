@@ -83,7 +83,7 @@ const Footer = async () => {
             <div className='mt-10 bg-neutral-200 py-5'>
                 <div className='mx-auto flex justify-center tracking-widest'>
                     <span className='mr-1 mt-1'><AiOutlineTrademark/></span>
-                    <p className='text-gray-800 uppercase'> 2024 maria fleitman</p>
+                    <p className='text-gray-800 uppercase'> 2024 maría fleitman</p>
                 </div>
             </div>
     </div>

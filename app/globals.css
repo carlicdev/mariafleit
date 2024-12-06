@@ -17,5 +17,18 @@ body {
   font-family: var(--font-parisienne);
 }
 
+.animated-box {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.5s ease-in-out;
+  z-index: 100;
+}
 
+.open {
+  height: 100%;
+}
+
+.closed {
+  height:0;
+}
 
